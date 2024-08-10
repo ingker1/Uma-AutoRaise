@@ -1,5 +1,7 @@
 # 赛马娘自动挂机育成脚本
 
+修改自https://gitee.com/CharlinChen/Uma_AutoTrain
+
 ## 功能
 只实现了URA剧本，每天挂一下领50宝石。做活动快速刷pt。
 
